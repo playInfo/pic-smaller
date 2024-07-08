@@ -3,7 +3,7 @@ import zhCN from "antd/locale/zh_CN";
 
 const localeData: LocaleData = {
   antLocale: zhCN,
-  logo: "图小小",
+  logo: "小图图",
   initial: "初始化中",
   previewHelp: "拖动分割线对比压缩效果：左边是原始图，右边是压缩图",
   uploadCard: {
@@ -32,7 +32,7 @@ const localeData: LocaleData = {
   },
   optionPannel: {
     failTip: "无法更小，请调整参数后重试",
-    help: "图小小是一款批量图片压缩应用程序，对选项的修改将应用到所有图片上",
+    help: "小图图是一款批量图片压缩应用程序，对选项的修改将应用到所有图片上",
     resizeLable: "调整图片尺寸",
     jpegLable: "JPEG/WEBP参数",
     pngLable: "PNG参数",
